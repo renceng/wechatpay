@@ -3,7 +3,7 @@ namespace App\Controller;
 
 use Common\Controller\AppBaseController;
 /**
- * app 首页
+ * app 模拟支付
  */
 
 class OrderController extends AppBaseController
